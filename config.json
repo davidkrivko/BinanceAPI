@@ -1,0 +1,8 @@
+{
+    "telegram_token": "6979446060:AAHzzGB3y9FN_fx-IPaqM1bzzrVIc4uywfM",
+    "telegram_chat_id": "-1002033240200",
+    "coins": ["BTCUSDT", "ETHUSDT", "SOLUSDT"],
+    "threshold": 0.05,
+    "database": "postgresql+asyncpg://postgres:password@localhost:5432/binance",
+    "period": 10
+}
